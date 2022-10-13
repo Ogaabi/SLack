@@ -29,18 +29,18 @@ IGou will be built using a dataset from NOAA (ncdc.noaa.gov/cdo.web/search). IGo
 IGou app will send a weather voice prompt with visuals to the user after the user has click on snooze or stop button when the phone alarm rings or when the user checks map for his or destination. IGou will suggest a nearby parking area to drivers when there is an incoming strong wind.
 
 ## How it will work
-##Wake up
+##Wake up##
 Install IGou and enter your name
 The user will input the time he or she wants to wake up.
 when the phone alarm rings the user will have to press either the snooze or stop button.
 IGou will send a voice promt with visuals. Eg, " Hello, 'name of the user', It will be hot today. Don't foget to take an umbrella, sun cream and remain hydrated. Good luck"
 
-##Checking for a destination
+##Checking for a destination##
 Install IGou and enter your name
 Use google map to search for your location
 IGou waits for 20 seconds and sends a voice promt. Eg, "Hey! It will be rainy in 'name of destination'. Don't forget to take your raincoat or umbrella. stay safe"
 
-##Drivers
+##Drivers##
 Install IGou
 Open google map and enter your destination
 Let your google map be live
